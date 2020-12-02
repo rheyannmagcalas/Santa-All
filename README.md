@@ -1,4 +1,4 @@
-# Santa All
+# [Santa All](https://eskwelabssantaall.herokuapp.com/)
 ### Grant a wish this holiday season
 
 Building an E-commerce Gift Recommender System based on User-Generated Wishlists
@@ -43,13 +43,21 @@ The project aims to ease gift-giving by providing users a more efficient way of 
 * Review Sentiment Analysis
 
 ## Contributors
-* Danilo Gubaton Jr
-* Fili Emerson Chua
-* Rhey Ann Magcalas
-* Roberto Bañadera, Jr 
+* [Danilo Gubaton Jr](https://www.linkedin.com/in/dcgubatonjr/)
+* [Fili Emerson Chua](https://www.linkedin.com/in/fili-emerson-chua/)
+* [Rhey Ann Magcalas](https://www.linkedin.com/in/rhey-ann-magcalas-47541490/)
+* [Roberto Bañadera, Jr](https://www.linkedin.com/in/robertobanaderajr/)
 
 ### Acknowledgments:
-* Albert Yumol
-* Dianne Ashley Tan
-* Elissa Cabal
-* John Barrion
+* [Albert Yumol](https://www.linkedin.com/in/albertyumol/)
+* [Dianne Ashley Tan](https://www.linkedin.com/in/dianneashleytan/)
+* [Elissa Cabal](https://www.linkedin.com/in/elissa-cabal-9790a3141/)
+* [John Barrion](https://www.linkedin.com/in/johnbarrion/)
+
+
+### Additional Resouces:
+* [TFIDF](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
+* [TFIDF 2](https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089)
+* [Networkx](https://networkx.org/)
+* [Product Recommendation System](https://kessiezhang.medium.com/building-a-product-recommendation-system-for-e-commerce-part-ii-model-building-8b23a9b3ac27)
+* [E-Commerce Recommendation Evaluation](https://www.ecommerce-nation.com/how-to-evaluate-your-ecommerce-product-recommendations/)
