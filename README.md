@@ -48,7 +48,7 @@ The project aims to ease gift-giving by providing users a more efficient way of 
 * [Rhey Ann Magcalas](https://www.linkedin.com/in/rhey-ann-magcalas-47541490/)
 * [Roberto Bañadera, Jr](https://www.linkedin.com/in/robertobanaderajr/)
 
-### Acknowledgments:
+### Special Thanks:
 * [Albert Yumol](https://www.linkedin.com/in/albertyumol/)
 * [Dianne Ashley Tan](https://www.linkedin.com/in/dianneashleytan/)
 * [Elissa Cabal](https://www.linkedin.com/in/elissa-cabal-9790a3141/)
