@@ -4,16 +4,14 @@
 Building an E-commerce Gift Recommender System based on User-Generated Wishlists
 
 ### Documentation
-https://eskwelabssantaall.herokuapp.com/
+* [Streamlit](https://eskwelabssantaall.herokuapp.com/)
+* [Web App Code](https://github.com/rheyannmagcalas/santa_all_web)
 
 ### Background and Inspiration
-
 Christmas is coming and people are expected to flock to e-commerce sites to buy gifts instead of doing the usual offline store shopping this holiday season.
-
 The project aims to ease gift-giving by providing users a more efficient way of finding appropriate gifts.
 
 ### Features
-
 * **Create a wishlist**: Make a public wishlist and fill it up with products you want to receive
 * **Share with a  friend**: Share your wishlist link on social media or your favorite messenger
 * **Get gifted**: Your friends can now see your wishlist and buy you gifts
@@ -27,6 +25,12 @@ The project aims to ease gift-giving by providing users a more efficient way of 
 * Django
 * Streamlit
 * Heroku
+* Pandas
+* Numpy
+* Scikit Learn
+* Seaborn
+* Matplotlib
+* Jupyter Notebook
 
 ### Pipelines
 * Lemmatization
@@ -52,6 +56,7 @@ The project aims to ease gift-giving by providing users a more efficient way of 
 * [Roberto Bañadera, Jr](https://www.linkedin.com/in/robertobanaderajr/)
 
 ### Special Thanks:
+* [Eskwelabs](https://www.eskwelabs.com/)
 * [Albert Yumol](https://www.linkedin.com/in/albertyumol/)
 * [Dianne Ashley Tan](https://www.linkedin.com/in/dianneashleytan/)
 * [Elissa Cabal](https://www.linkedin.com/in/elissa-cabal-9790a3141/)
@@ -61,6 +66,7 @@ The project aims to ease gift-giving by providing users a more efficient way of 
 ### Additional Resouces:
 * [TFIDF](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
 * [TFIDF 2](https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089)
+* [Lemmatization](https://spacy.io/api/lemmatizer)
 * [Networkx](https://networkx.org/)
 * [Product Recommendation System](https://kessiezhang.medium.com/building-a-product-recommendation-system-for-e-commerce-part-ii-model-building-8b23a9b3ac27)
 * [E-Commerce Recommendation Evaluation](https://www.ecommerce-nation.com/how-to-evaluate-your-ecommerce-product-recommendations/)
